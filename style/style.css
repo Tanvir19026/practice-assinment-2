@@ -1,0 +1,38 @@
+
+/* catagories-design */
+
+.catagories img{
+  width:100px;
+  
+}
+.catagories{
+  height:200px;
+  border-radius:20px;
+}
+/* slide-design */
+.bg-design{
+  background-color:#fceae8;
+}
+.slide-border{
+  border-radius:25px;
+}
+
+
+/* shoe-card-design */
+
+.panda-card {
+  border:0;
+}
+
+/* design-connection-section */
+.connect-section{
+background-color:rgb(120, 230, 18);
+font-weight: 600;
+color:darkmagenta;
+}
+.btn-design{
+   padding:5px 15px;
+   font-weight: 600;
+   color:black;
+   background-image: linear-gradient(45deg,lightsalmon,tomato);
+}
